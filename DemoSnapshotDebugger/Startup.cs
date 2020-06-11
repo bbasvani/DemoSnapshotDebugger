@@ -8,6 +8,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+// Added manually
+using Microsoft.ApplicationInsights.SnapshotCollector;
+
 namespace DemoSnapshotDebugger
 {
     public class Startup
@@ -24,6 +27,8 @@ namespace DemoSnapshotDebugger
         {
             services.AddControllersWithViews();
             services.AddApplicationInsightsTelemetry(Configuration["APPINSIGHTS_INSTRUMENTATIONKEY"]);
+            //Added manually
+            services.AddSnapshotCollector((configuration) => Configuration.Bind(nameof(SnapshotCollectorConfiguration), configuration));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -30,10 +30,6 @@ C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Micros
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
-C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
-C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
-C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\obj\Debug\netcoreapp3.1\DemoSnapshotDebugger.csproj.CopyComplete
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.DemoSnapshotDebugger20200611113443 - Web Deploy.json
 C:\Demo\DemoSnapshotDebugger\DemoSnapshotDebugger\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
