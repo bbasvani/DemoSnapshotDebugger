@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Exnla1EJLVfnsm3XqyEIMuUpi8lDlDgt4BQcrBNpMNXaHWQCiCdhsicf8iRZxzI/HAeFHa8J917Jn7fWOhIcPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Demo\\DemoSnapshotDebugger\\DemoSnapshotDebugger\\DemoSnapshotDebugger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bbasvani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
