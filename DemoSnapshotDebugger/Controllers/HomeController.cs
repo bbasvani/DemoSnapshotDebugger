@@ -28,10 +28,28 @@ namespace DemoSnapshotDebugger.Controllers
             return View();
         }
 
+        public IActionResult appException()
+        {
+            ThrowApplicationException();
+            return View();
+        }
+
+        private void ThrowApplicationException()
+        {
+            int a = 1;
+            int b = 0;
+            int result = 0;
+
+            result = a / b;
+            
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
     }
 }
